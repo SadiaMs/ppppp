@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import Image from 'next/image';
-import { FaShoppingBasket } from "react-icons/fa";
+
 
 
 const Header = () => {
@@ -20,7 +20,7 @@ const Header = () => {
         <Link href={'/About'}>About</Link>
         <Link href={'/Shop'}>Shop</Link>
         <Link href={'/contact'}>Contact</Link>
-        <FaShoppingBasket />
+    
        
     </nav>
    </header>

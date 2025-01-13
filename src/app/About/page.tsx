@@ -7,7 +7,7 @@ const Page = () => {
       <div className="section1">
         {/* Headline Section */}
         <section className="section2">
-          <h1>Welcome to Patel's Flower Shop</h1>
+          <h1>Welcome to Patel Flower Shop</h1>
           <p>Where Every Bloom Tells a Story</p>
         </section>
 
@@ -15,8 +15,8 @@ const Page = () => {
         <section className="section3">
           <h2>Our Story</h2>
           <p>
-            At Patel's Flower Shop, we believe that flowers have the power to brighten any day and bring people closer together.
-            What started as a small passion for nature’s beauty has blossomed into a shop that delivers joy, love, and care through
+            At Patel Flower Shop we believe that flowers have the power to brighten any day and bring people closer together.
+            What started as a small passion for nature beauty has blossomed into a shop that delivers joy, love, and care through
             handcrafted floral arrangements. Every petal, every stem, and every design reflects our commitment to quality and creativity.
           </p>
         </section>
@@ -25,7 +25,7 @@ const Page = () => {
         <section className="section4">
           <h2>Our Mission</h2>
           <p>
-            To create unforgettable floral experiences that celebrate life’s special moments and inspire smiles every day.
+            To create unforgettable floral experiences that celebrate life special moments and inspire smiles every day.
           </p>
         </section>
 
@@ -33,8 +33,8 @@ const Page = () => {
         <section className="section5">
           <h2>What We Offer</h2>
           <ul>
-            <li>🌹 <strong>Fresh Flowers:</strong> Sourced daily to ensure vibrant, long-lasting blooms.</li>
-            <li>💐 <strong>Custom Arrangements:</strong> Tailored to suit every occasion – weddings, birthdays, anniversaries, and more.</li>
+            <li>🌹 <strong>Fresh Flowers:</strong> Sourced daily to ensure vibrant, long lasting blooms.</li>
+            <li>💐 <strong>Custom Arrangements:</strong> Tailored to suit every occasion  weddings, birthdays, anniversaries, and more.</li>
             <li>🎁 <strong>Gifting Options:</strong> Beautifully wrapped bouquets, gift baskets, and potted plants.</li>
             <li>🚚 <strong>Fast Delivery:</strong> Bringing your blooms to your doorstep, fresh and on time.</li>
           </ul>

@@ -16,13 +16,13 @@ const Hero = () => {
         }}
       >
         <div>
-          <h1 className="fade-in">Welcome to Patel's Flower Shop</h1>
+          <h1 className="fade-in">Welcome to Patels Flower Shop</h1>
           <p>
-            Send flowers and send a smile! Discover fresh flowers online, gift
-            baskets, and florist-designed arrangements.
+            Send flowers and send a smile Discover fresh flowers online gift
+            baskets and florist-designed arrangements
           </p>
           <Link href={"/Shop"}>
-            <button className={"shop-button"}>Shop Now!</button>
+            <button className={"shop-button"}>Shop Now</button>
           </Link>
         </div>
       </section>
