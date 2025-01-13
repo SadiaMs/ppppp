@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 
 
@@ -26,7 +27,8 @@ const Flower = () => {
       <div className="roses">
         {Items.map((rose) => (
           <div key={rose.id} className="rose-card">
-            <img src={rose.image} alt={rose.name} />
+           <Image className='prod' src={rose.image} alt={rose.name} width={200} height={200} />
+
             <h3>{rose.name}</h3>
             <p>{rose.description}</p>
             <div>${rose.price}</div>
